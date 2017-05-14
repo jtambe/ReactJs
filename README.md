@@ -12,7 +12,9 @@ ReactJs code samples
 
 >npm install babel-core
 >npm install babel-loader
+
 Please note that plain >npm install babel does no longer work
+
 >npm install babel-preset-react
 >npm install babel-preset-es2015
 
